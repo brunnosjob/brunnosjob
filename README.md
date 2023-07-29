@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Bruno Rodrigues, an English teacher and a junior data scientist.
-- 👀 I’m interested in Data Science, Natural Language Processing, Artificial Intelligence, Linguistics, Marketing, Semiotics and Economics.
-- 🌱 I’m currently learning about Artificial Intelligence and its subfields, as well as continuing my studies in Linguistics and Economics.
-- 💞️ I’m looking to collaborate on these areas mentioned above.
-- 📫 You can reach me through my e-mail (brunnosjo@gmail.com) or through my linkedin (www.linkedin.com/in/bruno-rodrigues-carloto)
+- 👋 Olá! Sou o Bruno, analista de Inteligência de Mercado de Crédito
+- 📓 Sou estudante ad infinitum
+- 🌱 Sou focado em me tornar especialista de Analytics
+- 📫 Você pode me encontrar em:
+  www.linkedin.com/in/bruno-rodrigues-carloto
+        
